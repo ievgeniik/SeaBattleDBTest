@@ -2,3 +2,9 @@ D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotConversation\bin\Debug\Cha
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotConversation\bin\Debug\ChatBotConversation.pdb
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotConversation\obj\Debug\ChatBotConversation.dll
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotConversation\obj\Debug\ChatBotConversation.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotConversation\bin\Debug\ChatBotConversation.dll
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotConversation\bin\Debug\ChatBotConversation.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotConversation\obj\Debug\ChatBotConversation.dll
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotConversation\obj\Debug\ChatBotConversation.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\bin\Debug\ChatBotConversation.dll
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\bin\Debug\ChatBotConversation.pdb

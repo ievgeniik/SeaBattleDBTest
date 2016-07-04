@@ -7,7 +7,7 @@ namespace ChatBotFarewell
 {
     public class ChatBotFarewell
     {
-        public string FarewellAnswer(string sGreeting)
+        public string FarewellAnswer(string sFarewell)
         {
             string sFarewellAnswer = null;
 
@@ -15,7 +15,7 @@ namespace ChatBotFarewell
             farewellList.Add("bye");
             farewellList.Add("goodbye");
 
-            if (farewellList.Contains(sGreeting))
+            if (farewellList.Contains(sFarewell))
             {
                 sFarewellAnswer = "Goodbye!";
             }

@@ -2,3 +2,9 @@ D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotFarewell\bin\Debug\ChatBot
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotFarewell\bin\Debug\ChatBotFarewell.pdb
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotFarewell\obj\Debug\ChatBotFarewell.dll
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\ChatBotFarewell\obj\Debug\ChatBotFarewell.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotFarewell\bin\Debug\ChatBotFarewell.dll
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotFarewell\bin\Debug\ChatBotFarewell.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotFarewell\obj\Debug\ChatBotFarewell.dll
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\ChatBotFarewell\obj\Debug\ChatBotFarewell.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\bin\Debug\ChatBotFarewell.dll
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\bin\Debug\ChatBotFarewell.pdb

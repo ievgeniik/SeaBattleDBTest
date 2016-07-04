@@ -7,18 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Reflection;
+using System.IO;
 
 namespace TalkToTheBot
 {
     public partial class TalkToTheBot : Form
     {
+        string enteredText;
+        string botAnswer;
+        List<Assembly> botList;
+
         public TalkToTheBot()
         {
             InitializeComponent();
+            botList = BotAnswer.BotAssembly();
         }
-
-        string enteredText;
-        string botAnswer;
 
         private void Enter_Click(object sender, EventArgs e)
         {
@@ -26,44 +29,7 @@ namespace TalkToTheBot
             {
                 chatTextBox.AppendText("User: " + textToEnter.Text + "\n");
                 enteredText = textToEnter.Text.ToLower();
-
-                List<Assembly> botList = new List<Assembly>();
-                botList.Add(Assembly.LoadFrom("ChatBotGreeting.dll"));
-                botList.Add(Assembly.LoadFrom("ChatBotConversation.dll"));
-                botList.Add(Assembly.LoadFrom("ChatBotFarewell.dll"));
-                foreach (Assembly chatBot in botList)
-                {
-                    foreach (Type botType in chatBot.GetTypes())
-                    {
-                        object botTypeObj = Activator.CreateInstance(botType);
-                        foreach (MethodInfo botMethod in botType.GetMethods())
-                        {
-                            if (botMethod.Name == "ToString" || botMethod.Name == "GetHashCode" || botMethod.Name == "GetType")
-                            {
-                                continue;
-                            }
-                            else
-                            {
-                                object botAnswerObj = botMethod.Invoke(botTypeObj, new object[] { enteredText });
-
-                                try
-                                {
-                                    if (botAnswerObj.ToString() == "False")
-                                    {
-                                    }
-                                    else
-                                    {
-                                        botAnswer = botAnswerObj.ToString();
-                                    }
-                                }
-                                catch (NullReferenceException)
-                                {
-                                    continue;
-                                }
-                            }
-                        }
-                    }
-                }
+                botAnswer = BotAnswer.BotAnswerMethod(enteredText, botList);
                 chatTextBox.AppendText("Chat Bot: " + botAnswer + "\n");
                 botAnswer = null;
             }

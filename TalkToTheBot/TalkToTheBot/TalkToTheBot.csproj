@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BotAnswer.cs" />
     <Compile Include="TalkToTheBot.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -5,3 +5,10 @@ D:\Documents\frog\NICE\c#Training\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkTo
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.csproj.GenerateResource.Cache
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.exe
 D:\Documents\frog\NICE\c#Training\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.exe
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.pdb
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.TalkToTheBot.resources
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.Properties.Resources.resources
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\obj\x86\Debug\TalkToTheBot.csproj.GenerateResource.Cache
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\bin\Debug\TalkToTheBot.exe
+D:\Documents\frog\NICE\c#Training\github\TalkToTheBot\TalkToTheBot\bin\Debug\TalkToTheBot.pdb
