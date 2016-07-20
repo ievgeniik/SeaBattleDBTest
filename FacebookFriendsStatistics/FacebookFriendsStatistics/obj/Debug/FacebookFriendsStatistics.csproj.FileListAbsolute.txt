@@ -1,0 +1,8 @@
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\bin\Debug\FacebookFriendsStatistics.exe.config
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\bin\Debug\FacebookFriendsStatistics.exe
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\bin\Debug\FacebookFriendsStatistics.pdb
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\bin\Debug\Facebook.dll
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\bin\Debug\Facebook.xml
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\obj\Debug\FacebookFriendsStatistics.csprojResolveAssemblyReference.cache
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\obj\Debug\FacebookFriendsStatistics.exe
+D:\Documents\frog\NICE\c#Training\FacebookFriendsStatistics\FacebookFriendsStatistics\obj\Debug\FacebookFriendsStatistics.pdb
