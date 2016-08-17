@@ -1,0 +1,2 @@
+D:\Downloads\SeaBattleDBTest-master\SeaBattleDBTest-master\SeaBattleDB\bin\Debug\SeaBattleDB.exe.config
+D:\Documents\frog\NICE\c#Training\github\SeaBattleDB\bin\Debug\SeaBattleDB.exe.config
