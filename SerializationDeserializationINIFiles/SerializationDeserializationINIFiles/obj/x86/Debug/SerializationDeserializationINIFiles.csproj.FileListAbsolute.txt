@@ -1,6 +1,0 @@
-D:\Documents\frog\NICE\c#Training\SerializationDeserializationINIFiles\SerializationDeserializationINIFiles\bin\Debug\SerializationDeserializationINIFiles.exe
-D:\Documents\frog\NICE\c#Training\SerializationDeserializationINIFiles\SerializationDeserializationINIFiles\bin\Debug\SerializationDeserializationINIFiles.pdb
-D:\Documents\frog\NICE\c#Training\SerializationDeserializationINIFiles\SerializationDeserializationINIFiles\obj\x86\Debug\SerializationDeserializationINIFiles.exe
-D:\Documents\frog\NICE\c#Training\SerializationDeserializationINIFiles\SerializationDeserializationINIFiles\obj\x86\Debug\SerializationDeserializationINIFiles.pdb
-D:\Documents\frog\NICE\c#Training\github\SerializationDeserializationINIFiles\SerializationDeserializationINIFiles\obj\x86\Debug\SerializationDeserializationINIFiles.exe
-D:\Documents\frog\NICE\c#Training\github\SerializationDeserializationINIFiles\SerializationDeserializationINIFiles\obj\x86\Debug\SerializationDeserializationINIFiles.pdb

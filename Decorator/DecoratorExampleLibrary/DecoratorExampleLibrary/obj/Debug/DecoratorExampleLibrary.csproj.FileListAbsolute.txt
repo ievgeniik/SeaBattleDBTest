@@ -1,6 +1,0 @@
-D:\Documents\frog\NICE\c#Training\DecoratorExampleLibrary\DecoratorExampleLibrary\bin\Debug\DecoratorExampleLibrary.exe.config
-D:\Documents\frog\NICE\c#Training\DecoratorExampleLibrary\DecoratorExampleLibrary\bin\Debug\DecoratorExampleLibrary.exe
-D:\Documents\frog\NICE\c#Training\DecoratorExampleLibrary\DecoratorExampleLibrary\bin\Debug\DecoratorExampleLibrary.pdb
-D:\Documents\frog\NICE\c#Training\DecoratorExampleLibrary\DecoratorExampleLibrary\obj\Debug\DecoratorExampleLibrary.csprojResolveAssemblyReference.cache
-D:\Documents\frog\NICE\c#Training\DecoratorExampleLibrary\DecoratorExampleLibrary\obj\Debug\DecoratorExampleLibrary.exe
-D:\Documents\frog\NICE\c#Training\DecoratorExampleLibrary\DecoratorExampleLibrary\obj\Debug\DecoratorExampleLibrary.pdb
